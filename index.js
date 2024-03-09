@@ -1,4 +1,2 @@
-console.log("Hello World")
-console.log("Hello World")
-console.log("Hello World")
-console.log("Hello World")
+var name  = prompt("What is your name?");
+console.log(name.toUpperCase())
